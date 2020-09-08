@@ -7,7 +7,6 @@
 - [Usage](#usage)
 - [License](#license)
 - [Visuals](#visuals)
-- [Demonstration](#demonstration)
 - [Contributing](#contributing)
 - [Support](#support)
 
@@ -37,7 +36,6 @@ To use this application, you must first run the MySQL data in either your Comman
 
 ![](Assets/Employee_Tracker2.png)
 ![](Assets/Employee_Tracker.png)
-
 
 ## Contributing
 
