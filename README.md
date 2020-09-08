@@ -34,8 +34,8 @@ To use this application, you must first run the MySQL data in either your Comman
 
 ## Visuals
 
-![](Assets/Employee_Tracker2.png)
-![](Assets/Employee_Tracker.png)
+![](assets/Employee_Tracker2.png)
+![](assets/Employee_Tracker.png)
 
 ## Contributing
 
